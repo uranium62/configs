@@ -1,0 +1,17 @@
+{
+	"font_face": "JetBrains Mono",
+	"font_size": 13,
+	"line_padding_top": 1.2,
+	"line_padding_bottom": 1.2,
+
+	"tab_size": 4,
+	"translate_spaces_to_tabs": true,
+	
+	"word_wrap": true,
+	"spell_check": true,
+
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+}
